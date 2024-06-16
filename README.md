@@ -6,7 +6,7 @@
 
 The notebook for the MNIST dataset is available in the [mnist_julien_guyet](https://github.com/julienguyet/image_class_julien/blob/main/mnist_julien_guyet.ipynb) notebook. 
 
-The [cnn.py](https://github.com/julienguyet/image_class_julien/blob/main/cnn.py) file contains the pipeline with (i) use the CNN model I designed in MNIST dataset and (ii) a plot functions.
+The [cnn.py](https://github.com/julienguyet/image_class_julien/blob/main/cnn.py) file contains the pipeline with (i) the CNN model I designed in MNIST dataset and (ii) a plot functions.
 
 Finally, the [dogs_breeds_julien_guyet](https://github.com/julienguyet/image_class_julien/blob/main/dogs_breeds_julien_guyet.ipynb) notebook contains the code for the dog breed classification task. 
 
